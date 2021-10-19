@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633504064 source:d:\c++\isdigit\main.cpp
+	<iostream>
+	<cctype>
+
