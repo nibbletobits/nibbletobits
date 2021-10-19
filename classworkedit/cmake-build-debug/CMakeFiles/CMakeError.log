@@ -1,0 +1,42 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/c++/classworkedit/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_95a6c/fast && mingw32-make.exe: *** No rule to make target 'cmTC_95a6c/fast'.  Stop.
+
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/c++/classworkedit/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_8bbc4/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_8bbc4.dir\build.make CMakeFiles/cmTC_8bbc4.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/c++/classworkedit/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: CMakeFiles\cmTC_8bbc4.dir\build.make: No such file or directory
+mingw32-make.exe[1]: *** No rule to make target 'CMakeFiles\cmTC_8bbc4.dir\build.make'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'D:/c++/classworkedit/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_8bbc4/fast] Error 2
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/c++/classworkedit/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_a06a0/fast && mingw32-make.exe: *** No rule to make target 'cmTC_a06a0/fast'.  Stop.
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/c++/classworkedit/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f Makefile cmTC_419d9/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_419d9.dir\build.make CMakeFiles/cmTC_419d9.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/c++/classworkedit/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: CMakeFiles\cmTC_419d9.dir\build.make: No such file or directory
+mingw32-make.exe[1]: *** No rule to make target 'CMakeFiles\cmTC_419d9.dir\build.make'.  Stop.
+mingw32-make.exe[1]: Leaving directory 'D:/c++/classworkedit/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_419d9/fast] Error 2
+
+
+
+

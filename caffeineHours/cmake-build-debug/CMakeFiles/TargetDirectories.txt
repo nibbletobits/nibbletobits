@@ -1,0 +1,3 @@
+D:/c++/caffeineHours/cmake-build-debug/CMakeFiles/caffeineHours.dir
+D:/c++/caffeineHours/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++/caffeineHours/cmake-build-debug/CMakeFiles/rebuild_cache.dir
