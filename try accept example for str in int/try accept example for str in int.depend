@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632444913 source:d:\c++\try accept example for str in int\main.cpp
+	<iostream>
+	<string>
+	<exception>
+
