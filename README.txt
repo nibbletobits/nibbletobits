@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jordan
+- 👋 Hello, I’m Jordan
 - 👀 I’m interested in (python, c++)
 - 🌱 I’m currently learning (secure coding)
-- 💞️ I’m looking to collaborate on c++ and python projects - projects that chalenge my skills.
+- 💞️ I’m looking to collaborate on c++ and python projects / projects that chalenge my skills.
 - 📫 How to reach me Jordanpaulnolin@gmail.com
