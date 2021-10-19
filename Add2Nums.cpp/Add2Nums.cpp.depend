@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633499423 source:d:\c++\add2nums.cpp\main.cpp
+	<iostream>
+	<cctype>
+	<string>
+
