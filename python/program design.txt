@@ -1,0 +1,70 @@
+Program Design 
+ 
+This is the Design that you would turn in
+Step 1: Purpose of the code
+Program will check if users input is a leap year or not
+ 
+Step 2: Hand examples of calculation
+formula : year/4=leap year
+year/100 = not a leap year
+year/400 = leap year
+Year not divisible by 4 = not a leap year 
+ 
+Step 3: Write the pseudo code (or a flowchart)
+Ask for year input that is more than 1582
+If less print does not meet requirements
+If 1582 or greater run through algorithm 
+ 
+Step 4: Declare the Input Variables and give type and range.
+year= user input
+Less than 1582 does not meet criteria
+If year is divisible by 4 it is a leap year
+If year is divisible by 4 but is also divisible by 100 then it is not
+If year is divisible by 4 and 100 and also 400 than it is a leap year
+If it is not divisible by 4 it is not a leap year
+Step 5: 
+********************************
+def main():
+year = int(input("input a Year that falls after 1582: "))
+if year < 1582:
+print("year does not meet criteria")
+if year % 4 == 0:
+if year % 100 == 0:
+if year % 400 == 0:
+print("is a leap year!")
+print("Not a leap year!")
+ 
+Step 6: Provide input variables and Output.
+(year)
+is/is not a leap year
+ 
+Step 7: The code
+# ********************************************
+# Program Name: Day 5, in class
+# Programmer: Jordan P. Nolin
+# CSC-119: Summer 2021
+# Date: June 16, 2021
+# Purpose: A program to evaluate strings
+# Modules used: none
+# Input Variables: year()
+# Output: print statements, that output variable answer
+# ********************************************
+def main():
+   while True:
+       year = int(input("input a Year that falls after 1582: "))
+       if year < 1582:
+           print("year does not meet criteria")
+           return
+       if year % 4 == 0:
+           if year % 100 == 0:
+               if year % 400 == 0:
+                   print("is a leap year!")
+               else:
+                   print("Not a leap year!")
+           else:
+               print("is a leap year!")
+       else:
+           print("Not a leap year!")
+
+
+main()

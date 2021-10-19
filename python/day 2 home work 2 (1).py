@@ -1,0 +1,5 @@
+weight = float(input("enter your current weight in lbs*"))
+a = (weight*.166)
+print("your weight on the moon in lbs* is= ", a)
+input('press enter to end')
+exit("=)")

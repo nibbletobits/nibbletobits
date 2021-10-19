@@ -1,0 +1,5 @@
+height=float(input("what is the height?"))
+length= float(input("what is the length"))
+area = (length*height)
+print(area)
+input("hit enter to exit")
