@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @nibbletobits
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nibbletobits/nibbletobits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Jordan
+- 👀 I’m interested in (python, c++)
+- 🌱 I’m currently learning (secure coding)
+- 💞️ I’m looking to collaborate on c++ and python projects - projects that chalenge my skills.
+- 📫 How to reach me Jordanpaulnolin@gmail.com
